@@ -1575,3 +1575,11 @@ org.eclipse.core.runtime.CoreException: Variable references empty selection: ${p
 2015-05-08 19:29:43,825 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2015-05-08 19:30:10,373 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/samramez/Documents/ud859-master/Lesson_2/000_Hello_Endpoints
 2015-05-08 19:30:10,374 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B appengine:update
+2015-05-08 19:57:42,226 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-08 19:57:42,227 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/samramez/Documents/ud859-master/Lesson_2/000_Hello_Endpoints/src/main/resources
+2015-05-08 19:57:42,229 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-08 19:57:42,229 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/samramez/Documents/ud859-master/Lesson_2/000_Hello_Endpoints/src/test/resources
+2015-05-10 20:09:52,468 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 20:09:52,469 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/samramez/Documents/ud859-master/Lesson_2/000_Hello_Endpoints/src/main/resources
+2015-05-10 20:09:52,471 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 20:09:52,471 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/samramez/Documents/ud859-master/Lesson_2/000_Hello_Endpoints/src/test/resources
