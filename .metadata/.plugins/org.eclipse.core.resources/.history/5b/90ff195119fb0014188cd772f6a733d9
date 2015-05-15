@@ -1,0 +1,25 @@
+ package com.google.training.helloworld;
+
+import java.sql.Time;
+
+public class HelloClass {
+    public String message = "Hello World";
+
+    public HelloClass () {
+    }
+
+    public HelloClass (String name) {
+        this.message = "Hello " + name + "!";
+    }
+    
+    // Assignment addition
+    public HelloClass (String name, Time timeOfDay){
+    	
+    }
+
+    public String getMessage() {
+        return message;
+    }
+    
+    
+}
